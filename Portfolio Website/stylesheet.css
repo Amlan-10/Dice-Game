@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MAZIUS REVIEW 20.09 Ex';
+    src: url('MAZIUSREVIEW2009-Extraitalic.woff2') format('woff2'),
+        url('MAZIUSREVIEW2009-Extraitalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
